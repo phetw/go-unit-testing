@@ -1,4 +1,4 @@
 # Simple unit testing with Golang
 
-* go test
-* go run main.go
+- go test -v
+- go run main.go
